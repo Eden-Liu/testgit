@@ -1,0 +1,16 @@
+D:\VS2019\GitHubTest\GitHubTest\bin\Debug\net5.0\GitHubTest.exe
+D:\VS2019\GitHubTest\GitHubTest\bin\Debug\net5.0\GitHubTest.deps.json
+D:\VS2019\GitHubTest\GitHubTest\bin\Debug\net5.0\GitHubTest.runtimeconfig.json
+D:\VS2019\GitHubTest\GitHubTest\bin\Debug\net5.0\GitHubTest.runtimeconfig.dev.json
+D:\VS2019\GitHubTest\GitHubTest\bin\Debug\net5.0\GitHubTest.dll
+D:\VS2019\GitHubTest\GitHubTest\bin\Debug\net5.0\ref\GitHubTest.dll
+D:\VS2019\GitHubTest\GitHubTest\bin\Debug\net5.0\GitHubTest.pdb
+D:\VS2019\GitHubTest\GitHubTest\obj\Debug\net5.0\GitHubTest.csproj.AssemblyReference.cache
+D:\VS2019\GitHubTest\GitHubTest\obj\Debug\net5.0\GitHubTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS2019\GitHubTest\GitHubTest\obj\Debug\net5.0\GitHubTest.AssemblyInfoInputs.cache
+D:\VS2019\GitHubTest\GitHubTest\obj\Debug\net5.0\GitHubTest.AssemblyInfo.cs
+D:\VS2019\GitHubTest\GitHubTest\obj\Debug\net5.0\GitHubTest.csproj.CoreCompileInputs.cache
+D:\VS2019\GitHubTest\GitHubTest\obj\Debug\net5.0\GitHubTest.dll
+D:\VS2019\GitHubTest\GitHubTest\obj\Debug\net5.0\ref\GitHubTest.dll
+D:\VS2019\GitHubTest\GitHubTest\obj\Debug\net5.0\GitHubTest.pdb
+D:\VS2019\GitHubTest\GitHubTest\obj\Debug\net5.0\GitHubTest.genruntimeconfig.cache
